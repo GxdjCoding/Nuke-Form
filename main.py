@@ -14,7 +14,7 @@ from interactions import (
     Member,
 )
 
-bot = interactions.Client("MTAyMzc1NjEwOTU1Njc2NDgyMg.GTbNh8._f5JnlOmvLVmye1aKdZgQsvHIXzIeIH19bPOIY", intents=interactions.Intents.DEFAULT | interactions.Intents.GUILD_MESSAGES)
+bot = interactions.Client("", intents=interactions.Intents.DEFAULT | interactions.Intents.GUILD_MESSAGES)
 
 ## Create Forum ##
 
